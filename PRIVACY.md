@@ -1,0 +1,3 @@
+Privacy Policy
+
+Playlist Reorg is a personal tool used by a single user (its author) to organize videos saved in the author's own YouTube account. It accesses YouTube data solely via the YouTube Data API with the account owner's OAuth authorization. Video metadata (titles, channels, IDs) of the owner's saved videos is processed locally on the owner's computer for the sole purpose of sorting those videos into playlists, retained only in local files for the duration of the migration, and never shared, sold, published, or transferred to any third party. No data about any other user is accessed or stored. Authorization can be revoked at any time at https://myaccount.google.com/permissions.

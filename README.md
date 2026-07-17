@@ -1,0 +1,3 @@
+Playlist Reorg
+
+A personal, single-user command-line script (Python) that reorganizes my own YouTube account's saved videos. My saved-videos playlist reached YouTube's 5,000-video limit; this tool creates ~20 topic-based playlists on my own channel and moves my existing saved videos into them, one time. It uses the YouTube Data API v3 (videos.list, playlists.insert, playlistItems.insert) via OAuth against my own account only. No UI, no website, no third-party users, no data collection.
