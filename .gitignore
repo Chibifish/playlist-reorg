@@ -1,0 +1,8 @@
+# OAuth credentials — never commit these
+client_secret.json
+token.json
+
+# Personal data / run state
+*.csv
+progress.csv
+playlists.csv
